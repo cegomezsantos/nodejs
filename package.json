@@ -1,0 +1,15 @@
+{
+  "name": "mi-app-simple",
+  "version": "1.0.0",
+  "description": "Una app web simple con Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js" // Importante para Elastic Beanstalk
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+     // No necesitamos dependencias para este ejemplo básico,
+     // pero si usaras Express, por ejemplo, estaría aquí.
+  }
+}
